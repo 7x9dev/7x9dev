@@ -1,12 +1,16 @@
-### Hi there 👋
+<h1 align="center">👋 Hi there, I'm <a href="https://www.7x9.dev/" target="_blank">Valeriia</a></h1>
+<h3 align="center">Web Designer & Front-end Developer</h3>
+<p align="center">[ UI/UX, HTML, CSS, JavaScript, React ]</p>
 
+- 🌱 I’m currently learning React
+- 🔭 I’m currently working on Star Wars App
 <!--
 **7x9dev/7x9dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
