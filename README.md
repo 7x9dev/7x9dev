@@ -3,7 +3,7 @@
 <p align="center">[ UI/UX, HTML, CSS, JavaScript, React ]</p>
 
 - 🌱 I’m currently learning React
-- 🔭 I’m currently working on Star Wars App
+- 🔭 I’m currently working on a portfolio redesign
 <!--
 **7x9dev/7x9dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
